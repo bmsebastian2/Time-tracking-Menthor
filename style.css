@@ -131,6 +131,7 @@ h3{
 }
 .header h4{
     letter-spacing: 0.1rem;
+    font-size: 1.5rem;
     
 }
 .header img{
@@ -143,12 +144,12 @@ h3{
 }
 .body h4{
     letter-spacing: 0.1rem;
-    font-size:4rem;
+    font-size:5rem;
     font-weight: 300;
 
 }
 .body p{
-    font-size: 0.9rem;
+    font-size: 1rem;
     letter-spacing: 0.1rem;
     font-weight: 100;
     opacity: 95%;
