@@ -71,11 +71,13 @@ h3{
     font-weight: bold;
     color:hsl(235, 46%, 68%);
     font-size: larger;
+    cursor: pointer;
     
 }
 .menu a:hover{
-    color: rgba(255, 255, 255, 0.8);
+    color: rgba(247, 96, 96, 0.8);
 }
+
 .timePerson{
     
     display: grid;
