@@ -207,7 +207,9 @@ h3{
 @media (min-width: 1400.98px) { 
 
     .ficha img{
-        border-radius: 0;
+        width: 5rem;
+        height: 5rem;
+    
     }
 
  }
